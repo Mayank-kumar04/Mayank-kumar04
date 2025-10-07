@@ -1,18 +1,18 @@
  <img src="https://camo.githubusercontent.com/b1247b1acd44b31b0e457ea5bec2e755a69f2d3227e6a596cc807394db8541c8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33382f37652f34662f33383765346635323038316266656264366261393664396437383465396639342e676966" />
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">An Aspiring Software Engineer</h3>
+<h3 align="center">An Aspiring AI Engineer</h3>
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank-kumar04&label=Profile%20views&color=0e75b6&style=flat" alt="mayank-kumar04" /> </p>
 
-- 🌱 I’m currently learning **MERN stack by building new projects.**
+- 🌱 I’m currently learning **Machine Learning & Artificial Intelligence.**
 
 - 💬 Ask me about **Computer Science, new technologies and frameworks and Computer fundamentals**
 
-- 📫 How to reach me **metallicms04@gmail.com**
+- 📫 How to reach me **kumarmayank.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mayank-kumar-invictus04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-kumar-invictus04/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayank-kumar04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-kumar04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
