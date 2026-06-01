@@ -26,4 +26,6 @@
   <img src="https://github-readme-stats-delta-one-21.vercel.app/api/top-langs/?username=mayank-kumar04&layout=compact&theme=tokyonight" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-kumar04&" alt="mayank-kumar04" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-kumar04&" alt="mayank-kumar04" />
+</p>
