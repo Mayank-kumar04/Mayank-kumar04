@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank-kumar04&" alt="mayank-kumar04" />
+  <img src="https://streak-stats.demolab.com/?user=mayank-kumar04&theme=tokyonight" alt="mayank-kumar04" />
 </p>
