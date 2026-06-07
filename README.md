@@ -32,8 +32,6 @@
 
 ---
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### **Languages**
@@ -50,7 +48,7 @@
 
 ### **Web Development**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,vue,flask,flutter,html,css,figma" alt="Web Dev"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,expressjs,vue,flask,flutter,html,css,figma" alt="Web Dev"/>
 </div>
 
 ### **Databases & Tools**
@@ -64,8 +62,6 @@
 </div>
 
 ---
-
-
 
 <p align="center">
   <img src="https://github-readme-stats-delta-one-21.vercel.app/api?username=mayank-kumar04&show_icons=true&theme=tokyonight" />
