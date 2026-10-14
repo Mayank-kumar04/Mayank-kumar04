@@ -3,6 +3,7 @@
 <h3 align="center">An Aspiring AI/ML Engineer</h3>
 <img width="250" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/> 
 
+
 - 🌱 Adept in **Machine Learning & Artificial Intelligence.**
 
 - 🛠️ I'm currently learning **Generative AI & Agentic AI.**
